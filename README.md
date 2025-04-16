@@ -16,7 +16,7 @@ This project presents an implementation of **classical cryptographic algorithms*
 - 5. **Vigenère Cipher** - `Vigenere.c`
 - 6. **Gronsfeld Cipher** - `Gronsfeld.c`
 - 7. **Beaufort Cipher** - `Beaufort.c`
-- 8. **Autokey Cipher / Running Key Cipher** - `Autokey.c`
+- 8. **Autokey Cipher** - `Autokey.c`
 - 9. **N-Gram Operations** - `ngram.c`
 - 10. **Hill Cipher** - `Hill.c`
 
