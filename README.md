@@ -43,7 +43,7 @@ This project presents an implementation of **classical cryptographic algorithms*
 
 ---
 
-## 🛠How to Run
+## How to Run
 
 ### Prerequisites
 - Node.js and npm installed
