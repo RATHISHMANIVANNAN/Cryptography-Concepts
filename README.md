@@ -48,7 +48,7 @@ This project presents an implementation of **classical cryptographic algorithms*
 ### Prerequisites
 - Node.js and npm installed
 
-### 🚀 Steps to Run the Web Dashboard
+### Steps to Run the Web Dashboard
 
 ```bash
 cd Web/Cryptography
